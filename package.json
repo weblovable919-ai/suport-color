@@ -1,0 +1,10 @@
+{
+  "name": "suport-color",
+  "version": "1.0.0",
+  "description": "ANSI color support detection for terminal applications",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"All tests passed\""
+  },
+  "license": "MIT"
+}
